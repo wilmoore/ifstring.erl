@@ -36,7 +36,7 @@
     % "0"
     ifstring:is_numeric_or("OK", "0").
 
-  `is_numeric_or()` is curried so you can **also** pass a single argument resulting in a [fun][].
+  `is_numeric_or()` is curried so you can **also** pass a single argument resulting in a [fun](http://www.erlang.org/doc/programming_examples/funs.html).
 
     % ["0","0","15","100"]
     lists:map(ifstring:is_numeric_or("0"), ["a", "b", "15", "100"]).
@@ -55,5 +55,3 @@
 
   MIT
 
-
-[fun]: http://www.erlang.org/doc/programming_examples/funs.html
