@@ -6,7 +6,7 @@
 
 ## Installation
 
-    % expm spec ifstring 0.0.1
+    % expm spec ifstring 0.0.2
 
 ## API
 
