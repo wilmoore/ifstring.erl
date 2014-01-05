@@ -6,7 +6,7 @@
 
 ## Installation
 
-    % expm spec ifstring 0.0.2
+    % expm spec ifstring 0.0.2 --format scm | sh
 
 ## API
 
