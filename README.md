@@ -1,4 +1,4 @@
-# ifstring
+# ifstring [![Build Status](https://drone.io/github.com/wilmoore/ifstring.erl/status.png)](https://drone.io/github.com/wilmoore/ifstring.erl/latest)
 
 [![Build Status](https://travis-ci.org/wilmoore/ifstring.erl.png?branch=master)](https://travis-ci.org/wilmoore/ifstring.erl)
 
