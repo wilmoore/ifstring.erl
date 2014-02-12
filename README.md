@@ -1,4 +1,4 @@
-# ifstring [![Build Status](https://drone.io/github.com/wilmoore/ifstring.erl/status.png)](https://drone.io/github.com/wilmoore/ifstring.erl/latest)
+# ifstring ![](https://drone.io/github.com/wilmoore/ifstring.erl/status.png)
 
   Erlang string predicates.
 
